@@ -1,16 +1,25 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "Post 1"
+      "username": "User1",
+      "email": "User1@gmail.com",
+      "password": "User1AZERTY",
+      "date_joined": "2020-12-03T14:27:01.342Z"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "username": "User2",
+      "email": "User2@gmail.com",
+      "password": "User2AZERTY",
+      "date_joined": "2020-12-03T14:27:01.342Z"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "username": "User3",
+      "email": "User3@gmail.com",
+      "password": "User3AZERTY",
+      "date_joined": "2020-12-03T14:27:01.342Z"
     }
   ],
   "comments": [
