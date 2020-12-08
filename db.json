@@ -25,27 +25,27 @@
   "recipes": [
     {
       "id": 1,
-      "title": "Pain",
+      "title": "PAIN",
       "content": "AA",
-      "preparationTime": "10",
+      "preparationTime": "10 min",
       "creationDate": "10-11-1999",
-      "NbPeople": "5"
+      "NbPeople": "5 personnes"
     },
     {
       "id": 2,
-      "title": "Couscous",
+      "title": "COUSCOUS",
       "content": "AA",
-      "preparationTime": "15",
+      "preparationTime": "15 min",
       "creationDate": "12-11-1999",
-      "NbPeople": "4"
+      "NbPeople": "4 personnes"
     },
         {
-      "id": 1,
-      "title": "Casoulet",
+      "id": 3,
+      "title": "CASOULET",
       "content": "AA",
-      "preparationTime": "30",
+      "preparationTime": "30 min",
       "creationDate": "14-11-1999",
-      "NbPeople": "6"
+      "NbPeople": "6 personnes"
     }
   ]
 }
