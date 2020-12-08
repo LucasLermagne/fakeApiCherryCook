@@ -22,16 +22,30 @@
       "date_joined": "2020-12-03T14:27:01.342Z"
     }
   ],
-  "comments": [
+  "recipes": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Pain",
+      "content": "AA",
+      "preparationTime": "10",
+      "creationDate": "10-11-1999",
+      "NbPeople": "5"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "Couscous",
+      "content": "AA",
+      "preparationTime": "15",
+      "creationDate": "12-11-1999",
+      "NbPeople": "4"
+    },
+        {
+      "id": 1,
+      "title": "Casoulet",
+      "content": "AA",
+      "preparationTime": "30",
+      "creationDate": "14-11-1999",
+      "NbPeople": "6"
     }
   ],
   "profile": {
