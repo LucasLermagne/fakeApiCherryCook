@@ -51,11 +51,10 @@
       "idPeople": "2"    
     }
   ],
-  "test": [
+  "test": 
     {
       "title": "PAIN"
-    }
-    ],
+    },
    "recipe": [
     {
       "id": 1,
