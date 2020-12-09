@@ -29,7 +29,8 @@
       "content": "AA",
       "preparationTime": "10 min",
       "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes"
+      "nbPeople": "5 personnes",
+      "idPeople": "1"
     },
     {
       "id": 2,
@@ -37,7 +38,8 @@
       "content": "AA",
       "preparationTime": "15 min",
       "creationDate": "12-11-1999",
-      "nbPeople": "4 personnes"
+      "nbPeople": "4 personnes",
+      "idPeople": "2"
     },
         {
       "id": 3,
@@ -45,7 +47,8 @@
       "content": "AA",
       "preparationTime": "30 min",
       "creationDate": "14-11-1999",
-      "nbPeople": "6 personnes"
+      "nbPeople": "6 personnes",
+      "idPeople": "2"    
     }
   ]
 }
