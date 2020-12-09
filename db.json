@@ -50,5 +50,11 @@
       "nbPeople": "6 personnes",
       "idPeople": "2"    
     }
-  ]
+  ],
+  "test": [
+    {
+      "id": 1,
+      "title": "PAIN"
+    }
+    ]
 }
