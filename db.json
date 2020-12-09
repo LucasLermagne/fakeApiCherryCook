@@ -1,21 +1,21 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "username": "User1",
       "email": "User1@gmail.com",
       "password": "User1AZERTY",
       "date_joined": "2020-12-03T14:27:01.342Z"
     },
     {
-      "id": "2",
+      "id": 2,
       "username": "User2",
       "email": "User2@gmail.com",
       "password": "User2AZERTY",
       "date_joined": "2020-12-03T14:27:01.342Z"
     },
     {
-      "id": "3",
+      "id": 3,
       "username": "User3",
       "email": "User3@gmail.com",
       "password": "User3AZERTY",
@@ -24,7 +24,7 @@
   ],
   "recipes": [
     {
-      "idRecipe": "1",
+      "idRecipe": 1,
       "title": "PAIN",
       "content": "AA",
       "preparationTime": "10 min",
@@ -33,7 +33,7 @@
       "idPeople": "1"
     },
     {
-      "idRecipe": "2",
+      "idRecipe": 2,
       "title": "COUSCOUS",
       "content": "AA",
       "preparationTime": "15 min",
@@ -42,7 +42,7 @@
       "idPeople": "2"
     },
         {
-      "idRecipe": "3",
+      "idRecipe": 3,
       "title": "CASOULET",
       "content": "AA",
       "preparationTime": "30 min",
