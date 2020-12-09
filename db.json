@@ -55,5 +55,16 @@
     {
       "title": "PAIN"
     }
-    ]
+    ],
+   "recipe": [
+    {
+      "id": 1,
+      "title": "PAIN",
+      "content": "AA",
+      "preparationTime": "10 min",
+      "creationDate": "10-11-1999",
+      "nbPeople": "5 personnes",
+      "idPeople": "1"
+    }
+  ]
 }
