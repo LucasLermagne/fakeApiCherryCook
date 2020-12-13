@@ -53,5 +53,39 @@
       "nbPeople": "6 personnes",
       "idPeople": "2"    
     }
+  ],
+    "foods": [
+    {
+      "id": 1,
+      "nameFood": "poulet",
+      "calorie": 20
+    },
+    {
+      "id": 2,
+      "nameFood": "Farine",
+      "calorie": 0
+    },
+    {
+      "id": 3,
+      "nameFood": "maiss",
+      "calorie": 20
+    }
+  ],
+     "foodsInRecipe": [
+    {
+      "id": 1,
+      "idRecipe": 1,
+      "idFood": 1
+    },
+    {
+      "id": 2,
+      "idRecipe": 1,
+      "idFood": 2
+    },
+    {
+      "id": 3,
+      "idRecipe": 1,
+      "idFood": 3
+    }
   ]
 }
