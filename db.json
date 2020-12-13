@@ -54,6 +54,23 @@
       "idPeople": "2"    
     }
   ],
+    "foods": [
+    {
+      "id": 1
+      "nameFood": "poulet
+      "calorie": "20
+    },
+    {
+      "id": 2,
+      "nameFood": "Farine",
+      "calorie": "20
+    },
+    {
+      "id": 3
+      "nameFood": "maiss",
+      "calorie": "20
+    }
+  ],
    "testRecipes": [
     {
       "id": 1,
