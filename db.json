@@ -87,50 +87,5 @@
       "idRecipe": 1,
       "idFood": 3
     }
-  ],
-   "testRecipes": [
-    {
-      "id": 1,
-      "title": "PAIN",
-      "content": "AA",
-      "preparationTime": "10 min",
-      "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes",
-      "food": {
-        "id": 2,
-        "nameFood": "Farine blanche",
-        "calorie": "300"
-      }
-    },
-    {
-      "id": 2,
-      "title": "COUSCOUS",
-      "content": "AA",
-      "preparationTime": "10 min",
-      "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes",
-      "food": {
-        "id": 2,
-        "nameFood": "Farine blanche",
-        "calorie": "300"
-      }
-    },
-    {
-      "id": 3,
-      "title": "TAJINE",
-      "content": "AA",
-      "preparationTime": "10 min",
-      "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes",
-      "food": {
-        "id": 2,
-        "nameFood": "Farine blanche",
-        "calorie": "300"
-      }
-    }
-  ],
-  "test": 
-    {
-      "title": "PAIN"
-    }
+  ]
 }
