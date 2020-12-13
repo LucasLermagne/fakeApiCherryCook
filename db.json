@@ -89,6 +89,24 @@
       "idRecipe": 1,
       "idFood": 3,
       "quantity": 100
+    },
+    {
+      "id": 4,
+      "idRecipe": 1,
+      "idFood": 1,
+      "quantity": 100
+    },
+    {
+      "id": 5,
+      "idRecipe": 2,
+      "idFood": 2,
+      "quantity": 100
+    },
+    {
+      "id": 6,
+      "idRecipe": 2,
+      "idFood": 3,
+      "quantity": 100
     }
   ]
 }
