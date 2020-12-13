@@ -56,19 +56,36 @@
   ],
     "foods": [
     {
-      "id": 1
-      "nameFood": "poulet
-      "calorie": "20
+      "id": 1,
+      "nameFood": "poulet",
+      "calorie": 20
     },
     {
       "id": 2,
       "nameFood": "Farine",
-      "calorie": "20
+      "calorie": 0
     },
     {
-      "id": 3
+      "id": 3,
       "nameFood": "maiss",
-      "calorie": "20
+      "calorie": 20
+    }
+  ],
+      "foodsInRecipe": [
+    {
+      "id": 1,
+      "idRecipe": 1,
+      "idFood": 1
+    },
+    {
+      "id": 2,
+      "idRecipe": 1,
+      "idFood": 2
+    },
+    {
+      "id": 3,
+      "idRecipe": 1,
+      "idFood": 3
     }
   ],
    "testRecipes": [
