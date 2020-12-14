@@ -118,21 +118,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": "5 personnes",
       "note": 3,
-      "calorie": 10,
-      "ffoods":[
-        { 
-          "id": 1,
-          "name": "Farine blanche",
-          "measure": "gramme",
-          "quantity": 200
-        },
-        {
-          "id": 2,
-          "name": "Levure boulangère",
-          "measure": "sachet",
-          "quantity": 1
-        }
-      ]
+      "calorie": 10
     },
     {
      "id": 2,
@@ -142,21 +128,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": "5 personnes",
       "note": 4,
-      "calorie": 20,
-      "ffoods":[
-        { 
-          "id": 1,
-          "name": "Farine blanche",
-          "measure": "gramme",
-          "quantity": 200
-        },
-        {
-          "id": 2,
-          "name": "Levure boulangère",
-          "measure": "sachet",
-          "quantity": 1
-        }
-      ]
+      "calorie": 20
     }
   ]
 }
