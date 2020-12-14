@@ -118,6 +118,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": "5 personnes",
       "note": 3,
+      "calorie": 10,
       "foodss":[
         { 
           "id": 1,
@@ -141,6 +142,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": "5 personnes",
       "note": 4,
+      "calorie": 20,
       "foodss":[
         { 
           "id": 1,
