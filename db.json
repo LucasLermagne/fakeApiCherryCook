@@ -117,7 +117,7 @@
       "preparationTime": 10,
       "creationDate": "10-11-1999",
       "nbPeople": 5,
-      "note": 3.5,
+      "note": 2.5,
       "pseudo": "Lucas",
       "calorie": 10,
       "ffoods":[
@@ -138,25 +138,31 @@
     {
      "id": 2,
       "title": "TAJINE",
-      "content": "AA",
+      "content": "melanger du coeur dsfg kklsdf mmsdfk dkkf je suis malade mais je ne pensse pas que ca viens de la parce que j aime les legumes pas toi ? je pensse c est une evidance, j'ai toruver ma voie",
       "preparationTime": 10,
       "creationDate": "10-11-1999",
       "nbPeople": 5,
       "note": 4,
-      "pseudo": "Lucas",
+      "pseudo": "Claude",
       "calorie": 20,
       "ffoods":[
         { 
           "id": 1, 
-          "name": "Farine blanche", 
+          "name": "Poulet", 
           "measure": "gramme",
-          "quantity": 200 
+          "quantity": 2000 
         }, 
         { 
           "id": 2, 
-          "name": "Levure boulangère", 
-          "measure": "sachet", 
-          "quantity": 2 
+          "name": "Harivot", 
+          "measure": "gramme", 
+          "quantity": 250 
+        },
+                { 
+          "id": 3, 
+          "name": "Pattates", 
+          "measure": "gramme", 
+          "quantity": 50 
         } 
       ]
     }
