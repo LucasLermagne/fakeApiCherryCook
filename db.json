@@ -109,30 +109,52 @@
       "quantity": 100
     }
   ],
-  "tests": [
+  "recipess": [
     {
-      "id": 1,
-      "username": "User1",
-      "email": "User1@gmail.com",
-      "password": "User1AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
-      "grade": 0
+     "id": 1,
+      "title": "PAIN",
+      "content": "AA",
+      "preparationTime": "10 min",
+      "creationDate": "10-11-1999",
+      "nbPeople": "5 personnes",
+      "note": 3,
+      "foodss":[
+        { 
+          "id": 1,
+          "nameFood": "Farine blanche",
+          "measure": "gramme",
+          "quantity": 200
+        },
+        {
+          "id": 2,
+          "nameFood": "Levure boulangère",
+          "measure": "sachet",
+          "quantity": 1
+        }
+      ]
     },
     {
-      "id": 2,
-      "username": "User2",
-      "email": "User2@gmail.com",
-      "password": "User2AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
-      "grade": 0
-    },
-    {
-      "id": 3,
-      "username": "User3",
-      "email": "User3@gmail.com",
-      "password": "User3AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
-      "grade": 1
+     "id": 2,
+      "title": "TAJINE",
+      "content": "AA",
+      "preparationTime": "10 min",
+      "creationDate": "10-11-1999",
+      "nbPeople": "5 personnes",
+      "note": 4,
+      "foodss":[
+        { 
+          "id": 1,
+          "nameFood": "Farine blanche",
+          "measure": "gramme",
+          "quantity": 200
+        },
+        {
+          "id": 2,
+          "nameFood": "Levure boulangère",
+          "measure": "sachet",
+          "quantity": 1
+        }
+      ]
     }
   ]
 }
