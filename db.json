@@ -109,7 +109,7 @@
       "quantity": 100
     }
   ],
-  "recipess": [
+  "rrecipes": [
     {
      "id": 1,
       "title": "PAIN",
@@ -119,16 +119,16 @@
       "nbPeople": "5 personnes",
       "note": 3,
       "calorie": 10,
-      "foodss":[
+      "ffoods":[
         { 
           "id": 1,
-          "nameFood": "Farine blanche",
+          "name": "Farine blanche",
           "measure": "gramme",
           "quantity": 200
         },
         {
           "id": 2,
-          "nameFood": "Levure boulangère",
+          "name": "Levure boulangère",
           "measure": "sachet",
           "quantity": 1
         }
@@ -143,16 +143,16 @@
       "nbPeople": "5 personnes",
       "note": 4,
       "calorie": 20,
-      "foodss":[
+      "ffoods":[
         { 
           "id": 1,
-          "nameFood": "Farine blanche",
+          "name": "Farine blanche",
           "measure": "gramme",
           "quantity": 200
         },
         {
           "id": 2,
-          "nameFood": "Levure boulangère",
+          "name": "Levure boulangère",
           "measure": "sachet",
           "quantity": 1
         }
