@@ -116,7 +116,7 @@
       "content": "AA",
       "preparationTime": 10,
       "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes",
+      "nbPeople": 5,
       "note": 3,
       "calorie": 10
     },
@@ -126,7 +126,7 @@
       "content": "AA",
       "preparationTime": 10,
       "creationDate": "10-11-1999",
-      "nbPeople": "5 personnes",
+      "nbPeople": 5,
       "note": 4,
       "calorie": 20
     }
