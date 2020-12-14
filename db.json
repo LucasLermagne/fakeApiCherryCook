@@ -118,6 +118,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": 5,
       "note": 3.5,
+      "pseudo": "Lucas",
       "calorie": 10,
       "ffoods":[
         { 
@@ -142,6 +143,7 @@
       "creationDate": "10-11-1999",
       "nbPeople": 5,
       "note": 4,
+      "pseudo": "Lucas",
       "calorie": 20,
       "ffoods":[
         { 
