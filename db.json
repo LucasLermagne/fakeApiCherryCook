@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "login": "User2,
+      "login": "User2",
       "passWord": "User2ZERTY",
       "mail": "User2gmail.com",
       "grade": 0,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "login": "User3,
+      "login": "User3",
       "passWord": "User3ZERTY",
       "mail": "User3gmail.com",
       "grade": 1,
