@@ -5,7 +5,7 @@
       "login": "User1",
       "passWord": "User1AZERTY",
       "mail": "User1@gmail.com",
-      "grade": 0
+      "grade": 0,
       "dateInscription": "2020-12-03T14:27:01.342Z"
     },
     {
@@ -13,7 +13,7 @@
       "login": "User2,
       "passWord": "User2ZERTY",
       "mail": "User2gmail.com",
-      "grade": 0
+      "grade": 0,
       "dateInscription": "2020-12-03T14:27:01.342Z"
     },
     {
