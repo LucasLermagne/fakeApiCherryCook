@@ -1,28 +1,28 @@
 {
-  "users": [
+  "peoples": [
     {
       "id": 1,
-      "username": "User1",
-      "email": "User1@gmail.com",
-      "password": "User1AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
+      "login": "User1",
+      "passWord": "User1AZERTY",
+      "mail": "User1@gmail.com",
       "grade": 0
+      "dateInscription": "2020-12-03T14:27:01.342Z"
     },
     {
-      "id": 2,
-      "username": "User2",
-      "email": "User2@gmail.com",
-      "password": "User2AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
+      "id": 2
+      "login": "User2,
+      "passWord": "User2ZERTY",
+      "mail": "User2gmail.com",
       "grade": 0
+      "dateInscription": "2020-12-03T14:27:01.342Z"
     },
     {
-      "id": 3,
-      "username": "User3",
-      "email": "User3@gmail.com",
-      "password": "User3AZERTY",
-      "date_joined": "2020-12-03T14:27:01.342Z",
-      "grade": 1
+      "id": 3
+      "login": "User3,
+      "passWord": "User3ZERTY",
+      "mail": "User3gmail.com",
+      "grade": 1,
+      "dateInscription": "2020-12-03T14:27:01.342Z"
     }
   ],
   "recipes": [
