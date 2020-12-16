@@ -58,17 +58,20 @@
     {
       "id": 1,
       "nameFood": "poulet",
-      "calorie": 20
+      "calorie": 20,
+      "measure": "grammes"
     },
     {
       "id": 2,
       "nameFood": "Farine",
-      "calorie": 0
+      "calorie": 0,
+      "measure": "grammes"
     },
     {
       "id": 3,
       "nameFood": "maiss",
-      "calorie": 20
+      "calorie": 20,
+      "measure": "grammes"
     }
   ],
      "foodsInRecipe": [
